@@ -68,7 +68,7 @@ variable "addons_versions" {
     argocd_chart_version        = "9.4.17" # https://github.com/argoproj/argo-helm/blob/main/charts/argo-cd/Chart.yaml
     argo_rollouts_chart_version = "2.40.9" # https://github.com/argoproj/argo-helm/blob/main/charts/argo-rollouts/Chart.yaml
     #kargo_chart_version                      = "1.4.1" # https://github.com/akuity/kargo/releases
-    kargo_chart_version = "1.8.12" # https://github.com/akuity/kargo/releases
+    kargo_chart_version = "1.9.5" # https://github.com/akuity/kargo/releases
   }]
 }
 
